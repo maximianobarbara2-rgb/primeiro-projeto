@@ -1,4 +1,4 @@
-# 🐍 Primeiro Projeto
+# Primeiro Projeto
 
 Este é meu **primeiro projeto em Python** usando **Git e GitHub**.  
 Serve para treinar versionamento (add/commit/push) e publicar no GitHub.
